@@ -35,7 +35,7 @@
 | Name              | Class Section     | GitHub ID            | website for a GitHub repo         |  
 |:------------------|:------------------|:---------------------|:----------------------------------|  
 | Mudong Zeng   | Section 002      | zengmudong          | <https://zengmudong.github.io/Demo-STAT184/>    |  
-
+| Evelyn Murray   | Section 002      | evelynmurray28          | <https://evelynmurray28.github.io/Evelyn-Stat184/>   |  
 
 <br>
 
